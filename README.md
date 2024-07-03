@@ -35,6 +35,8 @@ With some modelling accomplished, we aim to reflect on what we identify as a hig
 
 From our heatmap we can see that age, mileage, type, and condition of the vehicle all had the highest impact on price. One surprising thing that we noticed was that title status didn't have as large of an impact on price as one would assume. One possible reason for this could be the large amount of missing data that we had. Perhaps a more complete dataset would yield completely different results.
 
+From this, we can see that our lasso regression model preformed the best and our linear regression model preformed the worst. Likely the problems with our linear regression model were due to overfitting. As such when we used L1 regularisation, we were able to reduce the number of errors leading to a drastic increase in accuracy and a decrease in RMSE and MAE.*italicised text*
+
 ### Deployment
 
 Now that we've settled on our models and findings, it is time to deliver the information to the client.  You should organize your work as a basic report that details your primary findings.  Keep in mind that your audience is a group of used car dealers interested in fine-tuning their inventory.
