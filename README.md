@@ -29,6 +29,8 @@ For a given row in the input dataset, our model will be able to analyze the attr
 
 After considering the business understanding, we want to get familiar with our data.  Write down some steps that you would take to get to know the dataset and identify any quality issues within.  Take time to get to know the dataset and explore what information it contains and how this could be used to inform your business understanding.
 
+![](images/download.jpeg)
+
 ### Evaluation
 
 With some modelling accomplished, we aim to reflect on what we identify as a high-quality model and what we are able to learn from this.  We should review our business objective and explore how well we can provide meaningful insight into drivers of used car prices.  Your goal now is to distil your findings and determine whether the earlier phases need revisitation and adjustment or if you have information of value to bring back to your client.
