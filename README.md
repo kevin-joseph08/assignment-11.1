@@ -29,7 +29,7 @@ For a given row in the input dataset, our model will be able to analyze the attr
 
 After considering the business understanding, we want to get familiar with our data.  Write down some steps that you would take to get to know the dataset and identify any quality issues within.  Take time to get to know the dataset and explore what information it contains and how this could be used to inform your business understanding.
 
-![](images/download.jpeg)
+![](images/download.png)
 
 ### Evaluation
 
